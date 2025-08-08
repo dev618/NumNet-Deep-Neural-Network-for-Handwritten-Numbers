@@ -1,6 +1,21 @@
-# 🧠 Handwritten Digit Recognition using Neural Networks
+# 🧠 NumNet – Deep Neural Network for Handwritten Numbers
 
 This project demonstrates how to build and train a simple neural network to recognize handwritten digits from the MNIST dataset using **TensorFlow** and **Keras**.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-red?logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-Array%20Processing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-yellow?logo=matplotlib)
+![MNIST](https://img.shields.io/badge/MNIST-Digit%20Dataset-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Model-orange)
+
+---
+
+**Tags:**  
+[`deep-learning`](#) [`neural-networks`](#) [`tensorflow`](#) [`keras`](#) [`mnist`](#) [`digit-recognition`](#) [`image-classification`](#) [`handwritten-digits`](#) [`machine-learning`](#) [`python`](#) [`numpy`](#) [`matplotlib`](#) [`classification-model`](#) [`ai-project`](#) [`pattern-recognition`](#) [`computer-vision`](#) [`feedforward-network`](#) [`supervised-learning`](#) [`data-preprocessing`](#) [`end-to-end-project`](#) [`portfolio-project`](#)
 
 ---
 
@@ -44,3 +59,6 @@ After training the model for **10 epochs**, it achieves the following:
 ### 1️⃣ Install Required Packages
 ```bash
 pip install tensorflow matplotlib numpy
+
+Run the Script
+python num_net.py
